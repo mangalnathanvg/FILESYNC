@@ -1,0 +1,71 @@
+
+body{
+	background-image: url("http://wallpapercave.com/wp/TjUG3t2.jpg");
+}
+h1{
+	margin-left: 780px;
+	font-family: "Jokerman";
+	font-size: 40px;
+	 
+}
+#org{
+	margin-top: 10px;
+	font-size:30px;
+	font-family: "Jokerman";
+	font-weight: bold;
+	margin-left: 300px;
+	 
+}
+#mr{	
+	margin-top: -55px;
+	font-size: 30px;
+	font-family: "Jokerman";
+	font-weight: bold;
+	margin-left: 1300px;
+	
+}
+#if1{
+     border: 2px green solid;
+	margin-top: -5px;
+	position: absolute;
+	margin-left: 80px;
+}
+#if2{
+border: 2px green solid;
+	margin-top: -11px;
+	position: absolute;
+	margin-left: 1050px;
+}
+.btsbt{ border-radius: 12px;
+	padding: 10px;
+	background-color: green;
+	-webkit-transition-duration:0.4s;
+	transition-duration:0.4s;
+	font-size: 30px;
+	color:white;
+	position:absolute;
+	margin-left: 870px;
+	margin-top: 300px;
+
+}
+.btsbt:hover{
+background-color: white;
+color:green;
+border-color: green;	
+}
+.btabt{ border-radius: 12px;
+	padding: 5px;
+	background-color: green;
+	color:white;
+	-webkit-transition-duration:0.4s;
+	transition-duration:0.4s;
+margin-left: 795px;
+margin-top: 500px;
+font-size: 30px;
+position: absolute;
+}
+.btabt:hover{
+	background-color: white;
+color:green;
+border-color: green;
+}

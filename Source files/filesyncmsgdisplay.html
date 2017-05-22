@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="filesyncmsgdisplay.css">
+	<title></title>
+</head>
+<body>
+   <h1>To Sync the Mirror Directory with the Original Directory.</h1>
+   <p id="org">Copy the following contents of the Original directory<br> to the mirror directory.</p>
+   <p id="mr">Delete the following contents from the Mirror Directory.</p> 
+   <iframe src="checkinorgnotinmir.php" height=700 width=700 id="if1"></iframe>
+   <iframe src="checkinmirnotinorg.php" height=700 width=700 id="if2"></iframe>
+   <form method="post" action="directbacktomain.php">
+   	<input type="submit" value="Back to main" class="back">
+   </form>
+</body>
+</html>

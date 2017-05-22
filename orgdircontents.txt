@@ -1,0 +1,32 @@
+<ul>
+<li>$RECYCLE.BIN
+<li>$WINDOWS.~BT
+<li>BOOTNXT
+<li>Documents and Settings
+<li>HaxLogs.txt
+<li>hiberfil.sys
+<li>hp
+<li>inetpub
+<li>Intel
+<li>MinGW
+<li>MSOCache
+<li>msys
+<li>OA3.Trace.xml
+<li>OA3ChkEdt.log
+<li>pagefile.sys
+<li>PerfLogs
+<li>Program Files
+<li>Program Files (x86)
+<li>ProgramData
+<li>Python27
+<li>Recovery
+<li>support
+<li>swapfile.sys
+<li>SWSetup
+<li>System Volume Information
+<li>SYSTEM.SAV
+<li>Users
+<li>wamp
+<li>Windows
+<li>xampp
+</ul>

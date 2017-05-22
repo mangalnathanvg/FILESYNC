@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html>
+<head>
+<link rel="stylesheet" type="text/css" href="mainview.css"><!-- Links the css file for this html file. -->
+	<title>File sync</title>
+</head>
+<body>
+<h1>File Sync by MVG</h1>
+<h2 id="org">Original Directory</h2>
+
+<form method = "post" action = "aboutpage.html">
+<input type="submit" name="submit" value="About FILESYNC" class="btabt">
+</form>
+
+
+<form method="post" action="filesyncmsgdisplay.html"><!-- Button Directing to page filesyncmsgdisplay.html -->
+	<input type="submit" name="submit" value="SYNC" class="btsbt">
+</form>
+<iframe src="originaldirectory.html" width=700 height=700 id="if1"></iframe><!-- Displays the src webpage within this webpage -->
+<h2 id="mr">Mirror Directory</h2>
+<iframe src="mirrordirectory.html" width=700 height=700 id="if2"></iframe>
+
+</body>
+</html>
